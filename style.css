@@ -1,0 +1,13 @@
+section {
+  margin-bottom: 8px;
+  padding: 16px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  border-radius: 8px;
+  background: lightcyan;
+}
+
+body {
+  text-align: center;
+}
